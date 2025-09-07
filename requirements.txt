@@ -1,0 +1,10 @@
+fastapi==0.95.0
+uvicorn[standard]==0.22.0
+langchain==0.0.300
+neo4j
+pinecone-client
+google-api-python-client==2.88.0
+google-auth==2.20.0
+httpx==0.24.0
+python-dotenv==1.0.0
+pytest==7.4.0
