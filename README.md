@@ -25,7 +25,6 @@ The goal of this system is to automate the **early stages of software project pl
 | **Google Docs API**  | Create and update stakeholder-facing documentation |
 | **Google Drive API** | Manage project-related files and documents |
 
----
 
 ## **Agents**
 
